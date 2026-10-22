@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f4f8;
+    text-align: center;
+    padding: 50px;
+}
+
+.calculator {
+    background: white;
+    padding: 30px;
+    max-width: 350px;
+    margin: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px #cccccc;
+}
+
+input {
+    width: 90%;
+    padding: 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 12px 18px;
+    margin: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
