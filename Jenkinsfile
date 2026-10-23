@@ -3,9 +3,6 @@ pipeline {
 
     tools {
         nodejs 'nodejs'
-        
-        
-        node20'
     }
 
     stages {
